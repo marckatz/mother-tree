@@ -6,7 +6,9 @@ https://ieeexplore.ieee.org/document/8914049
 
 This algorithm is based off how Douglas Fir trees use fungi (what the authors call "The Mycorrhizal Fungi Network (MFN)") to communicate between each other.
 The algorithm has a central "mother tree" which represents the best known node, which gives its data ("nutrients") to the other nodes, which then further pass it on in order
+
 ![Figure 1](https://github.com/marckatz/mother-tree/assets/5956327/317f9cf6-e748-433a-b9c7-091603605b84)
+
 From Korani et. al. 2019
 
 ## Current Features
